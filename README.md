@@ -1,4 +1,6 @@
-# hello-world
+# hello-world #introducing_myself
 Hello World
 
-Dynamic person who follows up for professional challenges and loves to learn about new technologies. 27 yo, mineiro, from Divinópolis. Lived abroad for almost 5 years in Portugal. Graduating student in Computer Engineering. And a passionate fan of soccer, more specifically an Atletico Mineiro's fan.
+I'm a person who looks for for professional challenges and loves to learn everyday about coding and new technologies. 27 yo, borned in Divinopolis, Minas Gerais/Brazil. Graduation student in Computer Engineering and tech enthusiast. A passionate fan of the soccer club Atletico Mineiro and interested about sports in general.
+
+Frederico Neves
